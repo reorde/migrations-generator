@@ -1,3 +1,10 @@
 vendor
 report
 composer.lock
+
+# IDEs and editors
+/.idea
+
+# System Files
+.DS_Store
+Thumbs.db
